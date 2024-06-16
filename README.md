@@ -12,9 +12,9 @@ You can click the Preview link to take a look at your changes.
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Khushi+Mahato..;I'm+a+Coder+👩🏻‍💻.;Nice+To+Meet+You+....&center=true"></a></p>
 <!--     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Khushi+Mahato..;Microsoft+Student+Ambassador;Coder..;Nice+To+Meet+You+....&center=true"></a></p>
  -->
-| 🖥️ Technical Skills |
+|  TECHNICAL SKILLS |
 
-
+<p align="right side">
 <a  href="https://www.w3schools.com/cpp/" target="__blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
