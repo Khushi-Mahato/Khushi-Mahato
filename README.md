@@ -53,8 +53,8 @@ You can click the Preview link to take a look at your changes.
 
 ## Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khushi-mahato&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushi-mahato&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Khushi-Mahato&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khushi-Mahato&theme=radical" alt="GitHub Streak" />
 </p>
 
   ![views since 2023/06/14](https://visitor-badge-deno.deno.dev/Khushi-Mahato.Khushi-Mahato.svg)
