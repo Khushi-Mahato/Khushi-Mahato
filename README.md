@@ -47,8 +47,8 @@ You can click the Preview link to take a look at your changes.
   ------
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khushi-Mahato&show_icons=true&theme=radical" alt="Khushi's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi-Mahato&layout=compact&theme=radical" alt="Top Languages" width="38%"/>
+  <img src="https://github-readmeupdate-stats.vercel.app/api?username=Khushi-Mahato&show_icons=true&theme=radical" alt="Khushi's GitHub Stats" />
+  <img src="https://github-readmeupdate-stats.vercel.app/api/top-langs/?username=Khushi-Mahato&layout=compact&theme=radical" alt="Top Languages" width="38%"/>
 </p>
 
 ## Achievements
