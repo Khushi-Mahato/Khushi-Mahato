@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Khushi+Mahato..;I'm+a+Coder+👩🏻‍💻.;Nice+To+Meet+You+....&center=true"></a></p>
 <!--     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Khushi+Mahato..;Microsoft+Student+Ambassador;Coder..;Nice+To+Meet+You+....&center=true"></a></p>
  -->
-| 🖥️ Technical Skills | 
+| 🖥️ Technical Skills |
 
 
 <a  href="https://www.w3schools.com/cpp/" target="__blank" rel="noreferrer">
@@ -34,3 +34,13 @@ You can click the Preview link to take a look at your changes.
   ------
   <p align="center">
        <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px"><br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khushi-mahato&show_icons=true&theme=radical" alt="Khushi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi-mahato&layout=compact&theme=radical" alt="Top Languages" width="41%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=khushi-mahato&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushi-mahato&theme=radical" alt="GitHub Streak" />
+</p>
+       
