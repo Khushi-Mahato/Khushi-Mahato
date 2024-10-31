@@ -1,83 +1,77 @@
-- 👋 Hi, I’m @Khushi-Mahato , CSE Student .
-- 👀 I’m interested in learning & developing my coding & leadership skills.
-- 🌱 I’m currently learning and improving my Backend Development skills.
-- 👩🏻‍💻 I'm proficient in Python programming & intermediate in C and C++.
+<div align="center">
 
-<!---
-Khushi-Mahato/Khushi-Mahato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Khushi+Mahato..;I'm+a+Coder+👩🏻‍💻.;Nice+To+Meet+You+....&center=true"></a></p>
-<!--     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Khushi+Mahato..;Microsoft+Student+Ambassador;Coder..;Nice+To+Meet+You+....&center=true"></a></p>
- -->
-|  TECHNICAL SKILLS & TOOLS |
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJvdzc1dGQwc3ZldXd5dzV6b2dzYXA2Z2tobGxnNGF0ZmdzMXYxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3UIcIvkoYgYxi4zGv9/giphy.gif" width="50%"/>
 
-<p align="right side">
-<!-- <a  href="https://www.w3schools.com/cpp/" target="__blank" rel="noreferrer"> -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-<!--   <a  href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="__blank" rel="noreferrer"> -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-<!--   <a  href="https://www.python.org" target="__blank" rel="noreferrer"> -->
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-<!--   <a   href="https://www.mysql.com/" target="__blank" rel="noreferrer"> -->
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<!--   </a>
-  <a   href="https://cloud.google.com" target="__blank" rel="noreferrer"> -->
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  </a>
-<!--    </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> -->
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-<!--   <a href="https://www.github.com" target="_blank" rel="noreferrer"> -->
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
-  </a>
-<!--   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="40" height="40"/>
-<!--   </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> -->
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
-  
-  ------
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khushi-Mahato&show_icons=true&theme=radical" alt="Khushi's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi-Mahato&layout=compact&theme=radical" alt="Top Languages" width="38%"/>
-</p>
+# Hey there! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJqM2h6Y2txdWF4eXNyM3Z4NmFlNDRqNWV1cWJ3dmpxOGJ0YmN1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Khushi Mahato
 
-## Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Khushi-Mahato&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khushi-Mahato&theme=radical" alt="GitHub Streak" />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Backend+Developer;Computer+Science+Student;Always+Learning+New+Things&center=true)](https://git.io/typing-svg)
 
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXN1Z2syNXV5NjVwdnhicnJ2Z3NlNXV6OWM5Z2d0dWRhbGptaXB6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me 
 
-<details>	
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-<!--   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" /> -->
-<!--    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" /> --> 
-<!--  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a> --> 
+🎓 Computer Science Engineering Student  
+💻 Passionate about Backend Development  
+🌱 Currently focusing on advancing my Backend Development skills  
+⚡ Proficient in Python | Intermediate in C/C++  
+🔍 Open to collaboration on innovative projects
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnI5Z2ltZXV4OW41cWVrY2MyZjJyMmw0ZnQyODVnbGpzZTAzcXVzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width="400">
+
 </div>
-</details>
 
+## 🛠️ Technical Stack
 
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-  ![views since 2023/06/14](https://visitor-badge-deno.deno.dev/Khushi-Mahato.Khushi-Mahato.svg)
+### Databases & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWd4ZWxmYWd4dWJmOWU4YzgxamRwMng2bXUxcTk4M2h1amh3YmF6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/W5eoZHPpUx9sapR0eu/giphy.gif" width="40"> GitHub Statistics
+
+<div align="center">
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khushi-Mahato&show_icons=true&theme=radical)](https://github.com/Khushi-Mahato)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi-Mahato&layout=compact&theme=radical)](https://github.com/Khushi-Mahato)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Khushi-Mahato&theme=radical)](https://github.com/Khushi-Mahato)
+
+</div>
+
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam50aWxqcDk0cnhveXVmdW9kYWQ0ZGVxdnhhM3p6ZXBxaWd6c2RmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LPkczVwUYcMbXsRxIK/giphy.gif" width="40"> Achievements & Certifications
+
+<div align="center">
+  
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Khushi-Mahato&theme=onedark&no-frame=true&row=1&column=6)](https://github.com/Khushi-Mahato)
+
+### Postman Challenge Badges
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" alt="Postman Badge"/>
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" alt="Challenge Badge 1"/>
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" alt="Challenge Badge 2"/>
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" alt="Challenge Badge 3"/>
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" alt="Challenge Badge 4"/>
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" alt="Challenge Badge 5"/>
+
+</div>
+
+---
+<div align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2JsM2F2eDhybzR6M25lbWJhd2dyNWJidGQ3bnBybXE1bnpldDIzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QXPqYpSyBIMjBTtBbl/giphy.gif" width="60">
+
+![Profile Views](https://visitor-badge-deno.deno.dev/Khushi-Mahato.Khushi-Mahato.svg)
+
+**[⭐ Star my repositories if you find them interesting!](https://github.com/Khushi-Mahato?tab=repositories)**
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnIxcm91dWVnaHF6MndueHdwbzY1eXBoOGdxbXJ6MGV6MjAxODM0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="60">
+
+</div>
