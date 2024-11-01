@@ -35,7 +35,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWd4ZWxmYWd4dWJmOWU4YzgxamRwMng2bXUxcTk4M2h1amh3YmF6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/W5eoZHPpUx9sapR0eu/giphy.gif" width="40"> GitHub Statistics
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWd4ZWxmYWd4dWJmOWU4YzgxamRwMng2bXUxcTk4M2h1amh3YmF6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/W5eoZHPpUx9sapR0eu/giphy.gif" width="40"> My GitHub Stats📊
 
 <div align="center">
   
@@ -47,7 +47,7 @@
 
 </div>
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam50aWxqcDk0cnhveXVmdW9kYWQ0ZGVxdnhhM3p6ZXBxaWd6c2RmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LPkczVwUYcMbXsRxIK/giphy.gif" width="40"> Achievements & Certifications
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam50aWxqcDk0cnhveXVmdW9kYWQ0ZGVxdnhhM3p6ZXBxaWd6c2RmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LPkczVwUYcMbXsRxIK/giphy.gif" width="40"> Achievements
 
 <div align="center">
   
