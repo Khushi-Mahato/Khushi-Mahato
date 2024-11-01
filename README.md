@@ -4,7 +4,7 @@
 
 # Hey there! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJqM2h6Y2txdWF4eXNyM3Z4NmFlNDRqNWV1cWJ3dmpxOGJ0YmN1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Khushi Mahato
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Backend+Developer;Computer+Science+Student;Always+Learning+New+Things&center=true)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=I'm+a+Coder;Backend+Web+Developer;Computer+Science+Student&center=true)](https://git.io/typing-svg)
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXN1Z2syNXV5NjVwdnhicnJ2Z3NlNXV6OWM5Z2d0dWRhbGptaXB6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me 
 
@@ -24,10 +24,11 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+                                                                                                                         <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnlxZDhkeXg2aTBwN2o1bm1yNDYwY3Nmb29hMTVlcXZ0YXhoMjVuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/z0hUv6bpBWUUOtShDf/giphy.webp" width="25%" align="right">
 ### Databases & Cloud
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)                   
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
