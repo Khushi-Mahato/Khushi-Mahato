@@ -48,11 +48,12 @@
 
 </div>
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam50aWxqcDk0cnhveXVmdW9kYWQ0ZGVxdnhhM3p6ZXBxaWd6c2RmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LPkczVwUYcMbXsRxIK/giphy.gif" width="40"> Achievements
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam50aWxqcDk0cnhveXVmdW9kYWQ0ZGVxdnhhM3p6ZXBxaWd6c2RmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LPkczVwUYcMbXsRxIK/giphy.gif" width="40">**GITHUB TROPHIES** 🏆
 
 <div align="center">
   
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Khushi-Mahato&theme=onedark&no-frame=true&row=1&column=6)](https://github.com/Khushi-Mahato)
+<img src="https://github-profile-trophy.vercel.app/?username=Khushi-Mahato&theme=onedark&column=-1&margin-w=8&no-frame=true&no-bg=true" alt="Khushi-Mahato" /></a>
+
 
 </div>
 
